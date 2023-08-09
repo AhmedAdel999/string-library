@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "corecrt_stdio_config.h": "c",
+        "stdlib.h": "c"
+    }
+}

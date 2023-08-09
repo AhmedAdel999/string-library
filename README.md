@@ -1,0 +1,1 @@
+This is a naive implementation of string library in c as a mean to practice the basics of the c programming language. 
